@@ -1,0 +1,9 @@
+{
+	"name": "tokyoprojectdatafactory",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8e6dae47-f064-4413-b2de-22ca45387ba2",
+		"tenantId": "da32bd2e-50eb-4bfa-9d36-cd6968cd61e4"
+	}
+}
