@@ -1,0 +1,9 @@
+{
+	"name": "swethasdatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "38d35e8b-a5ef-4697-b685-3f365dcd2a1e",
+		"tenantId": "da32bd2e-50eb-4bfa-9d36-cd6968cd61e4"
+	}
+}
